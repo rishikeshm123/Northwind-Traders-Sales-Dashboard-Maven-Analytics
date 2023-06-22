@@ -13,4 +13,4 @@ Can you identify any key customers?
 
 Are shipping costs consistent across providers?
 
-![Northwind](https://github.com/rishikeshm123/Northwind-Traders-Sales-Dashboard-Maven-Analytics/assets/105847924/2edb6022-319e-4eaf-aa5e-285ebd92fac6)
+![Northwind](https://github.com/rishikeshm123/Northwind-Traders-Sales-Dashboard-Maven-Analytics/assets/105847924/925337a6-5450-4780-bbdc-9636d03a08f7)
